@@ -1,0 +1,6 @@
+*.pyc
+.DS_Store
+bak/*
+clean.sh
+examples/data/*
+examples/model/*
