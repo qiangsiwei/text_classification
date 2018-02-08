@@ -5,6 +5,7 @@
 keras implementation of text classification algorithms
 
 Models:
+=====
 
 1. MLP
 
@@ -45,7 +46,7 @@ clf.predict(x)
 ```
 
 Limitations:
-=====
+----
 
 1. sentence length is limit by 'maxlen', words beyond will be truncated
 
